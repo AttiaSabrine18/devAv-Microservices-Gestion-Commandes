@@ -7,7 +7,7 @@ Ce projet implémente une architecture microservices pour la gestion des command
 ## Fonctionnalités
 
 ### **Service des Commandes**
-- API REST pour créer des commandes (`POST /orders`)
+- API REST pour créer des commandes (`POST /commandes`)
 - Validation des données de commande
 - Publication d'événements Kafka `orders.created`
 - Stockage des commandes en base de données
